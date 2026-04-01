@@ -4,7 +4,6 @@ import type { CollectionEntry } from 'astro:content';
 import FormattedDate from '@components/FormattedDate.astro';
 import CalendarIcon from '@icons/CalendarIcon.astro';
 import CategoryIcon from '@icons/CategoryIcon.astro';
-import { Image } from 'astro:assets';
 import config from '@config/config.json';
 import { slugify } from '@utils/slug';
 
@@ -19,7 +18,7 @@ const { title, description, pubDate, heroImage, categories, tags } = Astro.props
       {
         heroImage && (
           <figure class="h-auto w-auto object-cover md:h-[480px]">
-            <Image
+            <img
               class="cursor-default transition duration-300 ease-in-out hover:scale-110"
               src={heroImage}
               alt={title}
