@@ -1,7 +1,7 @@
 ---
 title: 'OpenClaw: Turning My MacBook into a Personal AI Assistant'
 description: 'How I used OpenClaw with Qwen3.5 via Ollama to supercharge Siri with real AI capabilities—scheduling cron jobs, crawling tech news, managing meetings, and more—all running locally at zero API cost.'
-heroImage: '/images/openclaw.png'
+heroImage: 'https://github.com/user-attachments/assets/76567b4d-199c-4cec-8bb5-01e403e2fb79'
 categories: ['AI', 'Productivity']
 tags: ['AI', 'OpenClaw', 'Ollama', 'Qwen', 'Automation', 'MacOS', 'Local AI']
 pubDate: '2026-04-01T15:00:00.000Z'
