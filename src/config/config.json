@@ -1,12 +1,12 @@
 {
   "site": {
     "title": "Mustafa | Software Engineer at Seek",
-    "base_url": "https://mostafakmilly.vercel.app/",
+    "base_url": "https://mustafakmelli.me/",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logo": "https://i.ibb.co/7vq1BGF/DALL-E-2023-10-24-22-31-37-Photo-of-a-vibrant-blue-square-colored-in-29-C2-FD-The-square-has-rounded.png",
     "lang": "en",
-    "description": "Mustafa's space to share insights, discoveries, and thoughts on the ever-evolving world of web development.",
+    "description": "Personal website of Mustafa Kashoul Melli, Software Engineer at Seek, sharing practical insights on frontend engineering, architecture, and modern web development.",
     "pageSize": 9
   },
   "features": {
@@ -15,12 +15,12 @@
   },
   "metadata": {
     "meta_author": "Mustafa Kashoul Melli",
-    "meta_description": "Dive into Mustafa's thoughts on web development, where he shares his insights, discoveries, and experiences in the field."
+    "meta_description": "Explore articles and notes by Mustafa Kashoul Melli on frontend engineering, JavaScript, React, architecture patterns, and building reliable web products."
   },
   "author": {
     "name": "Mustafa Kashoul Melli",
     "position": "Software Engineer @ Seek",
     "avatar": "/images/avatar.jpg",
-    "bio": "Mustafa's space to share insights, discoveries, and thoughts on the world of web development."
+    "bio": "Software Engineer focused on building scalable, user-centered web applications with JavaScript, TypeScript, React, and modern frontend architecture patterns."
   }
 }
