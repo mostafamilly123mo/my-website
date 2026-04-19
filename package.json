@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MostafaKMilly/my-website"
+    "url": "https://github.com/mustafakmelli/my-website"
   },
   "scripts": {
     "dev": "astro dev",

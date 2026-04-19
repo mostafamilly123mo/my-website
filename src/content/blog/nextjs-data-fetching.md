@@ -152,4 +152,4 @@ Key takeaways:
 
 By thoughtfully implementing these strategies, you can create efficient, performant, and user-friendly Next.js applications. Happy coding!
 
-For a practical implementation of these strategies, check out the accompanying GitHub repository: [Next.js Data Fetching Strategies](https://github.com/MostafaKMilly/nextjs-fetching-strategies).
+For a practical implementation of these strategies, check out the accompanying GitHub repository: [Next.js Data Fetching Strategies](https://github.com/mustafakmelli/nextjs-fetching-strategies).

@@ -403,6 +403,6 @@ import Footer from "../components/Footer.svelte";
 
 In this way you create simple landing page using Reactjs, Vuejs , Solidjs and Svelte.
 
-This is repository link: [Link](https://github.com/MostafaKMilly/Astro-Islands)
+This is repository link: [Link](https://github.com/mustafakmelli/Astro-Islands)
 
 Thank you for reading, and see you soon with another post ❤️

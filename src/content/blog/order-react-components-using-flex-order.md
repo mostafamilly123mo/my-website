@@ -215,6 +215,6 @@ Here is the final result:
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u21c9gpk6jfhpnafw4y0.png)
 
-GitHub repo : [link](https://github.com/MostafaKMilly/order-react-components)
+GitHub repo : [link](https://github.com/mustafakmelli/order-react-components)
 
 Thank you for reading and see you soon with another post 😊
